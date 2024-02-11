@@ -16,7 +16,7 @@ body {
 
 /* ------------------ starts navbar styles --------------- */
 
-.navigation {
+nav {
   display: flex;
   flex-flow: row wrap;
   justify-content: flex-end;
